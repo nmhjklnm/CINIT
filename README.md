@@ -2,7 +2,7 @@
 
 每次开一个新的 Claude Code 环境，总要重复配一遍状态栏、权限这些东西。这个项目就是把这些配置存下来，下次让 Claude Code 自己照着做就行。
 
-用法：把这个项目克隆下来，然后告诉 Claude Code "按照 README 帮我配置"。
+用法：把这个仓库链接丢给 Claude Code，让它按照 README 来配置就行。
 
 ---
 
